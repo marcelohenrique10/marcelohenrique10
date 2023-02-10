@@ -22,4 +22,5 @@
   
 </div><br>
   
-![snake gif](https://github.com/marcelohenrique10/marcelohenrique10/blob/output/github-contribution-grid-snake.svg)
+
+  ![Snake animation](https://github.com/marcelohenrique10/marcelohenrique10/blob/output/github-contribution-grid-snake.svg)
