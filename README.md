@@ -8,6 +8,10 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelohenrique10&layout=compact&hide_border=true&title_color=0FA9DA&text_color=0FA9DA&bg_color=0d1117" />
 </div>
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=marcelohenrique10&bg_color=000000&color=ffffff&line=1968e6&point=3f2adf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <div style="display: inline_block" img align="center"><br>
  
   <img  alt="MH-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
