@@ -35,6 +35,6 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0FA9DA)&nbsp;
    
    
-      ![Snake animation](https://github.com/sohilsharma1996/sohilsharma1996/blob/output/github-contribution-grid-snake.svg)
+      ![Snake animation](https://github.com/marcelohenrique10/marcelohenrique10/blob/output/github-contribution-grid-snake.svg)
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0FA9DA&height=120&section=footer"/>
