@@ -38,7 +38,7 @@
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohilsharma19960&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 
-  ![Snake animation](https://github.com/marcelohenrique10/marelohenrique10/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/sohilsharma1996/sohilsharma1996/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
      
