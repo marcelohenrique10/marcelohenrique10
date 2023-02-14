@@ -34,7 +34,14 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0FA9DA)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0FA9DA)&nbsp;
    
-   
-      ![Snake animation](https://github.com/marcelohenrique10/marcelohenrique10/blob/output/github-contribution-grid-snake.svg)
+   <!-- ![](https://github-readme-stats.vercel.app/api?username=Guilherme171195&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=Guilherme171195&theme=radical&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sohilsharma1996&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+
+
+  ![Snake animation](https://github.com/sohilsharma1996/sohilsharma1996/blob/output/github-contribution-grid-snake.svg)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+     
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0FA9DA&height=120&section=footer"/>
